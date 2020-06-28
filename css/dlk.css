@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-size: 14px;
+    color: #444;
+    font-family: "微软雅黑","宋体";
+}
+#bgtp img{
+    height: 659px;
+}
+#dlk{
+    /* margin: 0 auto; */
+    width: 300px;
+    background: rgba(255, 255, 255, 0.301);
+    padding: 20px;
+    margin: 215px auto;
+    font-family: "微软雅黑";
+    box-shadow: 1em -0.80em 2em 0em rgba(34, 34, 34, 0.39);
+    position: fixed;
+    top: 20px;
+    left: 530px;
+    z-index: 999;
+
+}
+#dlk h3{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+#dlk .input-text{
+    width: 270PX;
+    height: 25px;
+    margin-bottom: 15px;
+    outline: none;
+    background: url(../images/dl.png) no-repeat 0 0;
+    border: 1px solid #ccc;
+    padding-left: 28px;
+}
+#dlk .chanww{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    background: red;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 15px;
+}
+#dlk h6{
+    text-align: right;
+}
+#dlk h6 a{
+    padding-right: 10px;
+    color: black;
+}
+#dlk h6 a:hover{
+    color: red;
+}

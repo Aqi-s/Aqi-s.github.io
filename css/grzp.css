@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    height: 0;text-decoration: none;
+}
+#zpj_a{
+    margin: 20px auto;
+    width: 1300px;
+    height: 700px;
+    background: rgba(0, 255, 255, 0.678);
+    overflow: hidden;
+}
+#zpj_a .zpj{
+    width: 1300px;
+    height: 70px;
+}
+#zpj_a .zpj h2{
+    margin-top: 15px;
+    text-align: center;
+}
+#zpj_a .zpj h6{
+    text-align: center;
+    margin-top: 45px;
+}
+#zpj_a .zpj h6 a{
+    color: black;
+}
+#zpj_a .zpj h6 a:hover{
+    color: red;
+}
+.zpj_t{
+    margin: 0 auto;
+    width: 1200px;
+    height: 630px;
+}
+.zpj_t .zpj_r{
+    width: 384px;
+    height: 306px;
+    padding-top: 4px;
+    padding-left: 12px;
+    overflow: hidden;
+    display: inline-block;
+}
+.zpj_t a img{
+    width: 384px;
+    height: 306px;
+    float: left;
+    transition: 0.3s;
+}
+.zpj_t a img:hover{
+    width: 389px;
+    height: 311px;
+}
